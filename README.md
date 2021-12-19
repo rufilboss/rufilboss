@@ -2,14 +2,53 @@
   Hello, I'm Ilyas Rufai 👋
 </h1>
 
-I'm Ilyas, a DevOps Engineer.
+![devbanner](https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/SpaceMan.png)
 
-- 🔭 I’m currently working on AWS CI/CD
+Welcome to my profile! I'm a DevOps Engineer, an aspiring content creator.
+Thanks for visiting and I'd love to connect :heart_eyes:.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyas-rufai/)](https://www.linkedin.com/in/ilyas-rufai/)
+[![Twitter Badge](https://img.shields.io/badge/-@IlyasRufai-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IlyasRufai)](https://twitter.com/IlyasRufai)
+[![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
+[![Gmail Badge](https://img.shields.io/badge/-rufaiilyas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rufaiilyas@gmail.com)](mailto:rufaiilyas@gmail.com)
+
+- 🔭 I’m currently working on AWS CI/CD project.
 - 🌱 I’m currently learning Jenkins, Terraform..
+- 👯 I’m looking to collaborate on some amazing projects.
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufaiilyas@gmail.com
 - 😄 Pronouns: He/Him, rufilboy.
-- ⚡ Fun fact: I love cats.
+- ⚡ Fun fact: I love cats:relieved:.
+
+
+
+
+<!---[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) ---> 
+
+## My Tech Slack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)                 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)         
+                                             
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Profile Visits :see_no_evil:
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
+
+#### Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+#### Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
 
 
 
