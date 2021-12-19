@@ -14,6 +14,7 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 - 🔭 I’m currently working on AWS CI/CD project.
 - 🌱 I’m currently learning Jenkins, Terraform..
 - 👯 I’m looking to collaborate on some amazing projects.
+- :goal_net: 2022 Goals: Start Contributing to Open Source projects.
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufaiilyas@gmail.com
 - 😄 Pronouns: He/Him, rufilboy.
