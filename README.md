@@ -10,7 +10,6 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 [![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyas-rufai/)](https://www.linkedin.com/in/ilyas-rufai/)
 [![Twitter Badge](https://img.shields.io/badge/-@IlyasRufai-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IlyasRufai)](https://twitter.com/IlyasRufai)
 [![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
-[![Gmail Badge](https://img.shields.io/badge/-rufaiilyas-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rufaiilyas@gmail.com)](mailto:rufaiilyas@gmail.com)
 
 - 🔭 I’m currently working on AWS CI/CD project.
 - 🌱 I’m currently learning Jenkins, Terraform..
