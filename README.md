@@ -1,6 +1,8 @@
-### Hello, I'm Ilyas 👋
+<h1 align="center">
+  Hello, I'm Ilyas Rufai 👋
+</h1>
 
-I'm Ilyas Rufai, a DevOps Engineer.
+I'm Ilyas, a DevOps Engineer.
 
 - 🔭 I’m currently working on AWS CI/CD
 - 🌱 I’m currently learning Jenkins, Terraform..
