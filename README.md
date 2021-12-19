@@ -26,7 +26,7 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 
                                              
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Languages and Tools:
