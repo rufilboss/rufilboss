@@ -50,6 +50,9 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Profile Visits :see_no_evil:
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
 
