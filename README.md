@@ -30,6 +30,12 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### Profile Visits :see_no_evil:
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
+
 ## Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,12 +55,6 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Profile Visits :see_no_evil:
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
