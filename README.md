@@ -27,11 +27,12 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 
 <!---[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) ---> 
 
-                                             
+<!---My Gitub Status--->                 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!---My Github Streak--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast)](https://git.io/streak-stats)
+<!---TopLanguages--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
