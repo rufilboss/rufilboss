@@ -24,8 +24,7 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 
 
 
-
-<!---[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) ---> 
+<!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->                 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true)
@@ -63,6 +62,7 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 #### Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
