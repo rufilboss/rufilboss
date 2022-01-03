@@ -22,8 +22,6 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 - 😄 Pronouns: He/Him, rufilboy.
 - ⚡ Fun fact: I love cats:relieved:.
 
-
-
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->                 
