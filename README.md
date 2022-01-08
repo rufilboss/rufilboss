@@ -19,7 +19,7 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 - :goal_net: 2022 Goals: Start Contributing to Open Source projects.
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufaiilyas@gmail.com
-- 😄 Pronouns: He/Him, rufilboy.
+- 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love cats:relieved:.
 
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
