@@ -31,7 +31,6 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 <!---TopLanguages--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
