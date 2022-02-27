@@ -12,7 +12,7 @@ Thanks for visiting and I'd love to connect :heart_eyes:.
 [![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboy/)](https://www.linkedin.com/in/rufilboy/)
 [![Twitter Badge](https://img.shields.io/badge/-@rufilboy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rufilboy)](https://twitter.com/rufilboy)
 [![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
-[![Facebook Badge](https://img.shields.io/badge/-@Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/ilyas.rufai.5/)](https://facebook.com/ilyas.rufai.5)
+[![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/ilyas.rufai.5/)](https://facebook.com/ilyas.rufai.5)
 
 - 🔭 I’m currently working on AWS CI/CD project.
 - 🌱 I’m currently learning Docker, Jenkins, Terraform..
