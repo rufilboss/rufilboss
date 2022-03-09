@@ -8,7 +8,7 @@
 Welcome to my profile! I'm a DevOps Engineer.
 Thanks for visiting and I'd love to connect :heart_eyes:.
 <!-- Gif -->
-[rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboy/)](https://www.linkedin.com/in/rufilboy/)
