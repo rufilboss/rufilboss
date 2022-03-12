@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on AWS CI/CD project.
 - 🌱 I’m currently learning Docker, Jenkins, Terraform..
-- 👯 I’m looking to collaborate on some amazing projects.
+- 👯 I’m looking to collaborate on some amazing DevOps/Cloud projects.
 - :goal_net: 2022 Goals: Start Contributing to Open Source projects.
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufaiilyas@gmail.com
