@@ -2,7 +2,6 @@
   Hello, I'm Ilyas Rufai 👋
 </h1>
 
-<!---![devbanner](https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/SpaceMan.png)--->
 
 <!-- <h3 align="center"> -->
  Welcome to my profile! I'm a DevOps Engineer.
