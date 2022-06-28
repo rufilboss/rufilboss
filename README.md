@@ -16,10 +16,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/ilyas.rufai.5/)](https://facebook.com/rufilboy)
 
-- 🔭 I’m currently working on CI/CD pipeline project.
+- 🔭 I’m currently working on a DevOps CI/CD project.
 - 🌱 I’m currently learning KUBERNETES.
 - 👯 I’m looking to collaborate on some amazing DevOps/Cloud projects.
-- :goal_net: 2022 Goals: Contributing to Open Source projects.
+- :goal_net: 2022 Goals: Contributing to Open Source projects.....
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufaiilyas@gmail.com
 - 😄 Pronouns: He/Him/His.
