@@ -25,6 +25,8 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love cats:relieved:.
 
+- <a href="https://app.daily.dev/rufilboy"><img src="https://api.daily.dev/devcards/e4e53764a8fc4591ae7d29e3900cfd5a.png?r=ktb" width="400" alt="Ilyas Rufai's Dev Card"/></a>
+
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->                 
