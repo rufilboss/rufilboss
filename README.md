@@ -39,7 +39,7 @@ Cloud & DevOps Engineer
 
 
 <!---My Github Streak--->
-<img height=200 width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
+<img height=200 width=550 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
 </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
