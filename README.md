@@ -26,19 +26,20 @@ Cloud & DevOps Engineer
                   src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 
+-----------------------------
 <!-- - <a align="right" href="https://app.daily.dev/rufilboy"><img src="https://api.daily.dev/devcards/e4e53764a8fc4591ae7d29e3900cfd5a.png?r=ktb" width="400" alt="Ilyas Rufai's Dev Card"/></a> -->
 
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->
-<a><img height=150 width=400 align=left margintop=10px src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
+<a><img height=180 width=410 align="left" src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
 
 <!---TopLanguages--->
-<img height=150 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
+<img height=170 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
 
 
 <!---My Github Streak--->
-<img height=250 width=600 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
 </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
