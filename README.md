@@ -42,7 +42,7 @@ Cloud & DevOps Engineer
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- test -->
-<img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rufilboy,layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="RIA's Language stats" />
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="RIA's Language stats" />
 </a>
 
 ### Profile Visits :see_no_evil:
