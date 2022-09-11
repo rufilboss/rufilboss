@@ -37,7 +37,7 @@ Cloud & DevOps Engineer
 <img height=300 width=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
 
 <!---My Github Streak--->
-<img height=600 width=600 src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
+<img height=500 width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
 </a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
