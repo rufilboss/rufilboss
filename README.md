@@ -26,8 +26,7 @@ Cloud & DevOps Engineer
                   src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 
-=======================================================================
-
+-----------------------------
 <!-- - <a align="right" href="https://app.daily.dev/rufilboy"><img src="https://api.daily.dev/devcards/e4e53764a8fc4591ae7d29e3900cfd5a.png?r=ktb" width="400" alt="Ilyas Rufai's Dev Card"/></a> -->
 
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
