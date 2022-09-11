@@ -31,10 +31,10 @@ Cloud & DevOps Engineer
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->
-<a><img height=150 width=400 align=left margintop=10px src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
+<a><img height=160 width=400 align=left margintop=10px src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
 
 <!---TopLanguages--->
-<img height=100 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
+<img height=150 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
 
 
 <!---My Github Streak--->
