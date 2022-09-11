@@ -31,11 +31,11 @@ Cloud & DevOps Engineer
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->                 
-<img height=400 width=400 src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
+<img height=400 width=400 align=right src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
 </a>
 
 <!---TopLanguages--->
-<img height=400 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
+<img height=400 width=400 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
 </a>
 
 <!---My Github Streak--->
@@ -45,8 +45,8 @@ Cloud & DevOps Engineer
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- test -->
-<img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
-</a>
+<!-- <img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
+</a> -->
 
 ### Profile Visits :see_no_evil:
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
