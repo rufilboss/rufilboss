@@ -1,13 +1,8 @@
-<h1 align="center">
-  Hello 👋, I'm Ilyas Rufai
-</h1>
+Hi 👋 My name is Ilyas Rufai
+===============================
 
-
-<!-- <h3 align="center"> -->
- Welcome to my profile! I'm a DevOps Engineer.
- Thanks for visiting and I'd love to connect :heart_eyes:.
-<!-- </h3> -->
-
+Cloud & DevOps Engineer
+-----------------------------
 <!-- ![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
 ### Connect with me:
@@ -25,14 +20,22 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love cats:relieved:.
 
-- <a align="right" href="https://app.daily.dev/rufilboy"><img src="https://api.daily.dev/devcards/e4e53764a8fc4591ae7d29e3900cfd5a.png?r=ktb" width="400" alt="Ilyas Rufai's Dev Card"/></a>
+<a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/rufilboy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/rufilboy" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  
+
+<!-- - <a align="right" href="https://app.daily.dev/rufilboy"><img src="https://api.daily.dev/devcards/e4e53764a8fc4591ae7d29e3900cfd5a.png?r=ktb" width="400" alt="Ilyas Rufai's Dev Card"/></a> -->
 
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->                 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true)
+
 <!---My Github Streak--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast)](https://git.io/streak-stats)
+
 <!---TopLanguages--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -65,6 +68,6 @@
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-#### Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
+#### Support Me
+<a href="https://www.buymeacoffee.com/rufilboy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
