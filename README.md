@@ -34,7 +34,7 @@ Cloud & DevOps Engineer
 <a><img height=400 width=600 align=left margintop=10px src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
 
 <!---TopLanguages--->
-<img height=200 width=450 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
+<img height=100 width=250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" />
 
 
 <!---My Github Streak--->
