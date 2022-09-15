@@ -77,3 +77,8 @@ Cloud & DevOps Engineer
 
 #### Support Me
 <a href="https://www.buymeacoffee.com/rufilboy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<!-- ### Subscribe to my newsletter 'iEase DevOps'
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://rufilboy.substack.com)
+ -->
+<!-- <iframe src="https://rufilboy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></img> -->
