@@ -3,6 +3,7 @@ Hi 👋 My name is Ilyas Rufai
 
 Cloud & DevOps Engineer
 -----------------------------
+[![@rufilboy's Holopin board](https://holopin.io/api/user/board?user=rufilboy)](https://holopin.io/@rufilboy)
 <!-- ![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
 ### Connect with me:
