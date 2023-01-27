@@ -43,7 +43,7 @@ Cloud & DevOps Engineer
 <img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- test -->
 <!-- <img height=200 width=200 src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
@@ -69,7 +69,7 @@ Cloud & DevOps Engineer
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<!-- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) -->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Quotes
@@ -79,7 +79,10 @@ Cloud & DevOps Engineer
 #### Support Me
 <a href="https://www.buymeacoffee.com/rufilboy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<!-- ### Subscribe to my newsletter 'iEase DevOps'
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://rufilboy.substack.com)
+<!-- ### Subscribe to my newsletter 'iEase DevOps' -->
+<!-- ![<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://rufilboy.substack.com) -->
+<!-- [![Hello](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png) width="25"](https://rufilboy.substack.com) -->
+
+
+<!-- <iframe src="https://rufilboy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></img>
  -->
-<!-- <iframe src="https://rufilboy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></img> -->
