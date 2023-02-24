@@ -12,19 +12,19 @@ Cloud & DevOps Engineer
 [![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/ilyas.rufai.5/)](https://facebook.com/rufilboy)
 
-- 🔭 I’m currently working on a DevOps Project.
+- 🔭 I’m currently working on multi DevOps Project.☺️
 - 🌱 I’m currently learning with #100DaysOfDevOps challenge....
 - 👯 I’m looking to collaborate on some amazing DevOps/Cloud projects.
-- :goal_net: 2022 Goals: Contributing to Open Source projects.....
+- :goal_net: 2023 Goals: Contributing to Open Source projects.....
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufilboy@gmail.com
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love cats:relieved:.
 
-<a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/rufilboy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/rufilboy" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/rufilboy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 
 -----------------------------
