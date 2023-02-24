@@ -22,7 +22,7 @@ Cloud & DevOps Engineer
 - ⚡ Fun fact: I love cats:relieved:.
 
 <a href="https://twitter.com/rufilboy"><img src="https://img.shields.io/twitter/follow/rufilboy?label=Follow&style=social"></a>
-<!-- <a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboylogo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> -->
+<a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <a href="https://www.github.com/rufilboy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
