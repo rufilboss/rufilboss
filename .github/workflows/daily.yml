@@ -1,0 +1,32 @@
+name: Daily Monitoring
+on:
+  schedule:
+    - cron: 00 07 * * *
+
+jobs:
+  create_issue:
+    name: Create an issue to monitor mt daily progress
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create a monitor issue
+        uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
+        with:
+          assignees: "rufilboy"
+          labels: "daily sync, progress, learnings, 10X-activated"
+          title: "Daily Monitoring"
+          body: |
+            ### Agenda
+            - [ ] Learn with consistence!
+            - [ ] Write down what you've learnt TODAY!
+            - [ ] Did you learn any new things today?
+            - [ ] Did you meet any techie learning Node JS as you are?
+                    
+            ### PS
+            Write down your biggest next move
+            - [Continue your learning here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
+          pinned: false
+          close-previous: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.DAILY_GITHUB_TOKEN }}
