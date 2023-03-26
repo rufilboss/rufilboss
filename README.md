@@ -24,8 +24,6 @@ Cloud & DevOps Engineer
 
 <a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=rufilboy" target="blank"><img src="https://user-images.githubusercontent.com/51878265/227762239-f258334d-131c-49f8-8bfe-92e0290dedcc.png" height="36" alt="rufilboy"/></a></p>
-
 <a href="https://www.github.com/rufilboy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
