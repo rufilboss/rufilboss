@@ -52,13 +52,13 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ### Profile Visits :see_no_evil:
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
 
------------------------------------------------------
+-----------------------------------------------------;
 
-# Latest Blog Posts 👇
+## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
------------------------------------------------------
+-----------------------------------------------------;
 
 ## Languages and Tools:
 
@@ -81,14 +81,5 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
 #### Support Me
 <a href="https://www.buymeacoffee.com/rufilboy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<!-- ### Subscribe to my newsletter 'iEase DevOps' -->
-<!-- ![<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://rufilboy.substack.com) -->
-<!-- [![Hello](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png) width="25"](https://rufilboy.substack.com) -->
-
-
-<!-- <iframe src="https://rufilboy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></img>
- -->

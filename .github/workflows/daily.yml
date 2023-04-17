@@ -5,7 +5,7 @@ on:
 
 jobs:
   create_issue:
-    name: Create an issue to monitor mt daily progress
+    name: Create an issue to monitor my daily progress
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -29,4 +29,4 @@ jobs:
           pinned: false
           close-previous: true
         env:
-          GITHUB_TOKEN: ${{ secrets.DAILY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
