@@ -65,14 +65,6 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 <a href="https://rufilboy.hashnode.dev//resolving-git-merge-conflicts-fixing-the-fatal-not-possible-to-fast-forward-aborting-error" title="Resolving Git Merge Conflicts: fixing the "fatal: Not possible to fast-forward, aborting" Error"><strong>Resolving Git Merge Conflicts: fixing the "fatal: Not possible to fast-forward, aborting" Error</strong></a>
 <br/> This error message indicates that the git pull command was not able to complete a fast-forward merge of the changes in the remote branch into your local branch.
 This can happen when there are conflicting changes between the remote branch and your loc... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//ip-routing-tables-understanding-how-networks-send-packets" title="IP Routing Tables: Understanding How Networks Send Packets"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681397670527/2619663a-7ef4-4986-be3a-9ce1559f97b2.png" alt="IP Routing Tables: Understanding How Networks Send Packets" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//ip-routing-tables-understanding-how-networks-send-packets" title="IP Routing Tables: Understanding How Networks Send Packets"><strong>IP Routing Tables: Understanding How Networks Send Packets</strong></a>
-<br/> An IP route table, also known as a routing table or routing information base (RIB), is a database that stores information about the network topology and the paths that packets can take to reach their destination. It is a critical component of the Int... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//dynamic-vs-static-ip-addressing-which-one-is-right-for-your-network" title="Dynamic vs Static IP Addressing: Which One is Right for Your Network?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681402147848/f8b1220e-df7c-4c25-9b61-bbb9d41c9b84.png" alt="Dynamic vs Static IP Addressing: Which One is Right for Your Network?" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//dynamic-vs-static-ip-addressing-which-one-is-right-for-your-network" title="Dynamic vs Static IP Addressing: Which One is Right for Your Network?"><strong>Dynamic vs Static IP Addressing: Which One is Right for Your Network?</strong></a>
-<br/> When setting up a network, one of the most important decisions you'll have to make is whether to use dynamic or static IP addressing. Both have their advantages and disadvantages and choosing the right one for your network will depend on a variety of... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
