@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
           USERNAME: "Rufilboy" 
-          COUNT: 4 
+          COUNT: 2
           STYLE: "blog-left"
           BLOG_URL: "https://rufilboy.hashnode.dev/"
         env:
