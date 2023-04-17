@@ -52,13 +52,13 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ### Profile Visits :see_no_evil:
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
 
------------------------------------------------------;
+-----------------------------------------------------
 
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
------------------------------------------------------;
+-----------------------------------------------------
 
 ## Languages and Tools:
 
