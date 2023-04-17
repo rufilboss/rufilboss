@@ -53,6 +53,14 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ### Profile Visits :see_no_evil:
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
 
+-----------------------------------------------------
+
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+-----------------------------------------------------
+
 ## Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
