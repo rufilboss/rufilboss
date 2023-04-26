@@ -57,19 +57,19 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://rufilboy.hashnode.dev//a-brief-introduction-to-distributed-system" title="A Brief Introduction to Distributed System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682367665219/ba07a59f-fec2-48f5-a3e4-4aa150c8a279.png" alt="A Brief Introduction to Distributed System" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//a-brief-introduction-to-distributed-system" title="A Brief Introduction to Distributed System"><strong>A Brief Introduction to Distributed System</strong></a>
-<br/> In this blog, I'll be exploring what distributed system is all about in a brief explanation!
-What are distributed systems?
-Distributed systems refer to a collection of independent computers that work together as a single system. In a distributed syst... </p> <br/> <br/>
+<a href="https://rufilboy.hashnode.dev//how-to-install-jenkins-on-ubuntu-for-continuous-integration-and-delivery" title="How to Install Jenkins on Ubuntu for Continuous Integration and Delivery"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682493059765/7556b399-9e74-4cc0-b4bb-dd6ff8088fa2.png" alt="How to Install Jenkins on Ubuntu for Continuous Integration and Delivery" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//how-to-install-jenkins-on-ubuntu-for-continuous-integration-and-delivery" title="How to Install Jenkins on Ubuntu for Continuous Integration and Delivery"><strong>How to Install Jenkins on Ubuntu for Continuous Integration and Delivery</strong></a>
+<br/> In this blog, I'll provide a step-by-step guide on how to install Jenkins on an Ubuntu machine.
+What's Jenkins?
+Jenkins is an open-source automation server that is widely used for continuous integration and continuous delivery. It is a powerful tool ... </p> <br/> <br/>
 <p align="left">
-<a href="https://rufilboy.hashnode.dev//strategies-for-managing-secrets-and-sensitive-data-in-your-cicd-pipeline" title="Strategies for Managing Secrets and Sensitive Data in Your CI/CD Pipeline"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682088612772/ee6253bb-a1fb-4edc-8661-3f8cc42242b5.png" alt="Strategies for Managing Secrets and Sensitive Data in Your CI/CD Pipeline" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//strategies-for-managing-secrets-and-sensitive-data-in-your-cicd-pipeline" title="Strategies for Managing Secrets and Sensitive Data in Your CI/CD Pipeline"><strong>Strategies for Managing Secrets and Sensitive Data in Your CI/CD Pipeline</strong></a>
-<br/> In today's world, security is a top priority for any organization, especially in the world of DevOps and Continuous Integration/Continuous Deployment (CI/CD). Organizations need to manage secrets and sensitive data in their CI/CD pipeline in a way th... </p> <br/> <br/>
+<a href="https://rufilboy.hashnode.dev//introduction-to-jenkins-for-beginners" title="Introduction to Jenkins for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682505928750/013d19e0-23e6-450b-9976-edee0be1a0a5.png" alt="Introduction to Jenkins for Beginners" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//introduction-to-jenkins-for-beginners" title="Introduction to Jenkins for Beginners"><strong>Introduction to Jenkins for Beginners</strong></a>
+<br/> Jenkins is a popular open-source automation server that enables developers to automate their software development process. It helps in building, testing, and deploying software projects, allowing teams to focus on the actual development instead of th... </p> <br/> <br/>
 <p align="left">
-<a href="https://rufilboy.hashnode.dev//the-benefits-of-contributing-to-open-source-projects" title="The Benefits of Contributing to Open Source Projects"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682023672872/a38bfcb5-5121-4a26-b534-fda396c78cfd.png" alt="The Benefits of Contributing to Open Source Projects" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//the-benefits-of-contributing-to-open-source-projects" title="The Benefits of Contributing to Open Source Projects"><strong>The Benefits of Contributing to Open Source Projects</strong></a>
-<br/> Open-source projects have grown in popularity over the years, and many developers and businesses have started contributing to them. Contributing to open-source projects can have numerous benefits, including personal and professional growth, as well a... </p> <br/> <br/>
+<a href="https://rufilboy.hashnode.dev//a-comprehensive-introduction-to-distributed-systems" title="A Comprehensive Introduction to Distributed Systems"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682461494787/e405053c-aaf7-4fad-8946-82a057573d95.png" alt="A Comprehensive Introduction to Distributed Systems" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//a-comprehensive-introduction-to-distributed-systems" title="A Comprehensive Introduction to Distributed Systems"><strong>A Comprehensive Introduction to Distributed Systems</strong></a>
+<br/> In today's digital age, distributed systems have become increasingly important as they enable us to build complex, large-scale applications that can handle high traffic and large amounts of data. Distributed systems are made up of a collection of ind... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
