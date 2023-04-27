@@ -57,19 +57,20 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://rufilboy.hashnode.dev//how-to-install-jenkins-on-ubuntu-for-continuous-integration-and-delivery" title="How to Install Jenkins on Ubuntu for Continuous Integration and Delivery"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682493059765/7556b399-9e74-4cc0-b4bb-dd6ff8088fa2.png" alt="How to Install Jenkins on Ubuntu for Continuous Integration and Delivery" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//how-to-install-jenkins-on-ubuntu-for-continuous-integration-and-delivery" title="How to Install Jenkins on Ubuntu for Continuous Integration and Delivery"><strong>How to Install Jenkins on Ubuntu for Continuous Integration and Delivery</strong></a>
-<br/> In this blog, I'll provide a step-by-step guide on how to install Jenkins on an Ubuntu machine.
-What's Jenkins?
-Jenkins is an open-source automation server that is widely used for continuous integration and continuous delivery. It is a powerful tool ... </p> <br/> <br/>
+<a href="https://rufilboy.hashnode.dev//getting-started-with-apache-tomcat-on-linux-a-beginners-tutorial" title="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682583917298/c70c3d53-f478-4e6b-9901-b8e5e33b3a63.png" alt="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//getting-started-with-apache-tomcat-on-linux-a-beginners-tutorial" title="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial"><strong>Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial</strong></a>
+<br/> In this blog post, I'll guide you through the process of installing and setting up Apache Tomcat on a Linux server.
+What's Apache Tomcat?
+Apache Tomcat is an open-source web server and servlet container that is widely used for hosting Java-based web ... </p> <br/> <br/>
 <p align="left">
-<a href="https://rufilboy.hashnode.dev//introduction-to-jenkins-for-beginners" title="Introduction to Jenkins for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682505928750/013d19e0-23e6-450b-9976-edee0be1a0a5.png" alt="Introduction to Jenkins for Beginners" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//introduction-to-jenkins-for-beginners" title="Introduction to Jenkins for Beginners"><strong>Introduction to Jenkins for Beginners</strong></a>
-<br/> Jenkins is a popular open-source automation server that enables developers to automate their software development process. It helps in building, testing, and deploying software projects, allowing teams to focus on the actual development instead of th... </p> <br/> <br/>
+<a href="https://rufilboy.hashnode.dev//day-72-evolutionary-architecture" title="Day 72 - Evolutionary Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682530111325/c346062c-74d0-4943-92e6-e7bdd5fe90de.png" alt="Day 72 - Evolutionary Architecture" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-72-evolutionary-architecture" title="Day 72 - Evolutionary Architecture"><strong>Day 72 - Evolutionary Architecture</strong></a>
+<br/> It's my day 72 of the #100DaysOfDevOps challenge, in this blog I'll be sharing what I learned today about evolutionary architecture...
+Evolutionary Architecture to an approach to software architecture that emphasizes continuous adaptation and evoluti... </p> <br/> <br/>
 <p align="left">
-<a href="https://rufilboy.hashnode.dev//a-comprehensive-introduction-to-distributed-systems" title="A Comprehensive Introduction to Distributed Systems"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682461494787/e405053c-aaf7-4fad-8946-82a057573d95.png" alt="A Comprehensive Introduction to Distributed Systems" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//a-comprehensive-introduction-to-distributed-systems" title="A Comprehensive Introduction to Distributed Systems"><strong>A Comprehensive Introduction to Distributed Systems</strong></a>
-<br/> In today's digital age, distributed systems have become increasingly important as they enable us to build complex, large-scale applications that can handle high traffic and large amounts of data. Distributed systems are made up of a collection of ind... </p> <br/> <br/>
+<a href="https://rufilboy.hashnode.dev//day-71-introduction-to-microservices" title="Day 71 - Introduction to Microservices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682512216138/b7204520-ed8b-45cc-aeb7-10132f4365e6.png" alt="Day 71 - Introduction to Microservices" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-71-introduction-to-microservices" title="Day 71 - Introduction to Microservices"><strong>Day 71 - Introduction to Microservices</strong></a>
+<br/> Microservices is a software development approach that has gained immense popularity in recent years. It involves breaking down a large monolithic application into small, independently deployable services that work together to provide the required fun... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
