@@ -12,10 +12,10 @@ Cloud & DevOps Engineer
 [![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/ilyas.rufai.5/)](https://facebook.com/rufilboy)
 
-- 🔭 I’m currently working on multi DevOps Project.☺️
-- 🌱 I’m currently learning with #100DaysOfDevOps challenge....
-- 👯 I’m looking to collaborate on some amazing DevOps/Cloud projects.
-- :goal_net: 2023 Goals: Contributing to Open Source projects.....
+- 🔭 I’m currently working on [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
+- 🌱 I’m currently learning microservices architecture with #100DaysOfDevOps challenge
+- 👯 I’m looking to collaborate on some amazing projects.
+- :goal_net: 2023 Goals: Contributing to Open Source projects
 - 💬 Ask me about DevOps related.
 - 📫 How to reach me: rufilboy@gmail.com
 - 😄 Pronouns: He/Him/His.
