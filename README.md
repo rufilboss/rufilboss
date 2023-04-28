@@ -57,6 +57,11 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-73-modeling-services-in-microservices-architecture" title="Day 73 - Modeling Services in Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682620175689/e3f9abbe-e5a9-4aa1-af47-88210c007415.png" alt="Day 73 - Modeling Services in Microservices Architecture" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-73-modeling-services-in-microservices-architecture" title="Day 73 - Modeling Services in Microservices Architecture"><strong>Day 73 - Modeling Services in Microservices Architecture</strong></a>
+<br/> It's my day 73 of the #100DaysOfDevOps challenge, in this blog I'll be writing about what I learned today, it's about the best practices for modeling services in a microservices architecture.
+Microservices architecture is becoming increasingly popula... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//getting-started-with-apache-tomcat-on-linux-a-beginners-tutorial" title="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682583917298/c70c3d53-f478-4e6b-9901-b8e5e33b3a63.png" alt="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//getting-started-with-apache-tomcat-on-linux-a-beginners-tutorial" title="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial"><strong>Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial</strong></a>
 <br/> In this blog post, I'll guide you through the process of installing and setting up Apache Tomcat on a Linux server.
@@ -67,10 +72,6 @@ Apache Tomcat is an open-source web server and servlet container that is widely 
 <a href="https://rufilboy.hashnode.dev//day-72-evolutionary-architecture" title="Day 72 - Evolutionary Architecture"><strong>Day 72 - Evolutionary Architecture</strong></a>
 <br/> It's my day 72 of the #100DaysOfDevOps challenge, in this blog I'll be sharing what I learned today about evolutionary architecture...
 Evolutionary Architecture to an approach to software architecture that emphasizes continuous adaptation and evoluti... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-71-introduction-to-microservices" title="Day 71 - Introduction to Microservices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682512216138/b7204520-ed8b-45cc-aeb7-10132f4365e6.png" alt="Day 71 - Introduction to Microservices" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-71-introduction-to-microservices" title="Day 71 - Introduction to Microservices"><strong>Day 71 - Introduction to Microservices</strong></a>
-<br/> Microservices is a software development approach that has gained immense popularity in recent years. It involves breaking down a large monolithic application into small, independently deployable services that work together to provide the required fun... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
