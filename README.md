@@ -57,21 +57,19 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-75-implementing-asynchronous-event-based-collaboration" title="Day 75 -Implementing Asynchronous Event-Based Collaboration"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682803264211/3dde988d-3085-4737-af0d-bbd5d46ad97d.png" alt="Day 75 -Implementing Asynchronous Event-Based Collaboration" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-75-implementing-asynchronous-event-based-collaboration" title="Day 75 -Implementing Asynchronous Event-Based Collaboration"><strong>Day 75 -Implementing Asynchronous Event-Based Collaboration</strong></a>
+<br/> It's day 75 of my #100DaysOfDevOps challenge, in this blog I'll be writing about what I learned today. Dive into asynchronous event-based collaboration in a microservices architecture.
+Collaboration is an essential component of success in today's fas... </p> <br/> <br/>
+<p align="left">
+<a href="https://rufilboy.hashnode.dev//why-should-you-hire-a-devops-engineer" title="Why Should You Hire a DevOps Engineer?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682787633974/f6e10741-c237-4d7f-935c-cd711858d45d.png" alt="Why Should You Hire a DevOps Engineer?" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//why-should-you-hire-a-devops-engineer" title="Why Should You Hire a DevOps Engineer?"><strong>Why Should You Hire a DevOps Engineer?</strong></a>
+<br/> In recent years, DevOps has emerged as a crucial role in software development and IT operations. The term DevOps is a combination of the words “development” and “operations,” and it describes the practice of bringing these two functions together into... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-74-integration-in-a-microservices-architecture" title="Day 74 - Integration in a Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682716478426/4a3ce289-ba7a-4784-a3e3-8d2c26292f1a.png" alt="Day 74 - Integration in a Microservices Architecture" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-74-integration-in-a-microservices-architecture" title="Day 74 - Integration in a Microservices Architecture"><strong>Day 74 - Integration in a Microservices Architecture</strong></a>
 <br/> It's day 74 of my #100DaysOfDevOps challenge, in this blog I'll be writing about what I learned today, it's about integration in a microservices architecture.
 Integration in a microservices architecture is a crucial aspect that ensures proper communi... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-73-modeling-services-in-microservices-architecture" title="Day 73 - Modeling Services in Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682620175689/e3f9abbe-e5a9-4aa1-af47-88210c007415.png" alt="Day 73 - Modeling Services in Microservices Architecture" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-73-modeling-services-in-microservices-architecture" title="Day 73 - Modeling Services in Microservices Architecture"><strong>Day 73 - Modeling Services in Microservices Architecture</strong></a>
-<br/> It's my day 73 of the #100DaysOfDevOps challenge, in this blog I'll be writing about what I learned today, it's about the best practices for modeling services in a microservices architecture.
-Microservices architecture is becoming increasingly popula... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//getting-started-with-apache-tomcat-on-linux-a-beginners-tutorial" title="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682583917298/c70c3d53-f478-4e6b-9901-b8e5e33b3a63.png" alt="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//getting-started-with-apache-tomcat-on-linux-a-beginners-tutorial" title="Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial"><strong>Getting Started with Apache Tomcat on Linux: A Beginner's Tutorial</strong></a>
-<br/> In this blog post, I'll guide you through the process of installing and setting up Apache Tomcat on a Linux server.
-What's Apache Tomcat?
-Apache Tomcat is an open-source web server and servlet container that is widely used for hosting Java-based web ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
