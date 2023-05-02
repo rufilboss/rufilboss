@@ -57,6 +57,11 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-77-the-role-of-api-gateway-in-building-resilient-microservices-architecture" title="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682977640810/2b3366a3-cfb9-4d47-a82d-f40b100e35c2.png" alt="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-77-the-role-of-api-gateway-in-building-resilient-microservices-architecture" title="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture"><strong>Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture</strong></a>
+<br/> Today Monday, May 1st, 2023, 77th day of my #100DaysOfDevOps challenge, in this blog(documenting my journey) I'll be writing about API gateway in a microservices architecture.
+As we all know, microservices architecture has emerged as a popular approa... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-76-the-double-edged-sword-of-code-reuse-in-microservices-avoiding-the-perils" title="Day 76 -The Double-Edged Sword of Code Reuse in Microservices: Avoiding the Perils"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682891136812/6fdacb94-8f83-4546-a0ab-5a4e01248fa9.png" alt="Day 76 -The Double-Edged Sword of Code Reuse in Microservices: Avoiding the Perils" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-76-the-double-edged-sword-of-code-reuse-in-microservices-avoiding-the-perils" title="Day 76 -The Double-Edged Sword of Code Reuse in Microservices: Avoiding the Perils"><strong>Day 76 -The Double-Edged Sword of Code Reuse in Microservices: Avoiding the Perils</strong></a>
 <br/> It's day 76 of my #100DaysOfDevOps challenge, in this blog I'll be writing about DRY and the perils of code reuse in a microservices architecture.
@@ -67,10 +72,6 @@ DRY stands for "Don't Repeat Yourself." It is a software development principle t
 <a href="https://rufilboy.hashnode.dev//day-75-implementing-asynchronous-event-based-collaboration" title="Day 75 -Implementing Asynchronous Event-Based Collaboration"><strong>Day 75 -Implementing Asynchronous Event-Based Collaboration</strong></a>
 <br/> It's day 75 of my #100DaysOfDevOps challenge, in this blog I'll be writing about what I learned today. Dive into asynchronous event-based collaboration in a microservices architecture.
 Collaboration is an essential component of success in today's fas... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//why-should-you-hire-a-devops-engineer" title="Why Should You Hire a DevOps Engineer?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682787633974/f6e10741-c237-4d7f-935c-cd711858d45d.png" alt="Why Should You Hire a DevOps Engineer?" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//why-should-you-hire-a-devops-engineer" title="Why Should You Hire a DevOps Engineer?"><strong>Why Should You Hire a DevOps Engineer?</strong></a>
-<br/> In recent years, DevOps has emerged as a crucial role in software development and IT operations. The term DevOps is a combination of the words “development” and “operations,” and it describes the practice of bringing these two functions together into... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
