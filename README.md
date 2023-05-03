@@ -57,6 +57,11 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-78-versioning-in-a-microservices-architecture" title="Day 78 -Versioning in a Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683065218412/afffb5c7-67e8-477d-b241-bb058918dd4d.png" alt="Day 78 -Versioning in a Microservices Architecture" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-78-versioning-in-a-microservices-architecture" title="Day 78 -Versioning in a Microservices Architecture"><strong>Day 78 -Versioning in a Microservices Architecture</strong></a>
+<br/> Still on the #100DaysOfDevOps challenge it's day 78 of the challenge, it seems interesting. In this blog, I'll be writing about versioning in a microservices architecture.
+Microservices architecture has become increasingly popular in recent years due... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-77-the-role-of-api-gateway-in-building-resilient-microservices-architecture" title="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682977640810/2b3366a3-cfb9-4d47-a82d-f40b100e35c2.png" alt="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-77-the-role-of-api-gateway-in-building-resilient-microservices-architecture" title="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture"><strong>Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture</strong></a>
 <br/> Today Monday, May 1st, 2023, 77th day of my #100DaysOfDevOps challenge, in this blog(documenting my journey) I'll be writing about API gateway in a microservices architecture.
@@ -67,11 +72,6 @@ As we all know, microservices architecture has emerged as a popular approa... </
 <br/> It's day 76 of my #100DaysOfDevOps challenge, in this blog I'll be writing about DRY and the perils of code reuse in a microservices architecture.
 What's DRY?
 DRY stands for "Don't Repeat Yourself." It is a software development principle that promote... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-75-implementing-asynchronous-event-based-collaboration" title="Day 75 -Implementing Asynchronous Event-Based Collaboration"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682803264211/3dde988d-3085-4737-af0d-bbd5d46ad97d.png" alt="Day 75 -Implementing Asynchronous Event-Based Collaboration" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-75-implementing-asynchronous-event-based-collaboration" title="Day 75 -Implementing Asynchronous Event-Based Collaboration"><strong>Day 75 -Implementing Asynchronous Event-Based Collaboration</strong></a>
-<br/> It's day 75 of my #100DaysOfDevOps challenge, in this blog I'll be writing about what I learned today. Dive into asynchronous event-based collaboration in a microservices architecture.
-Collaboration is an essential component of success in today's fas... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
