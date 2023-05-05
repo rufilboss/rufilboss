@@ -57,6 +57,11 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-80-integrating-with-third-party-software-in-microservices-architecture" title="Day 80 -Integrating with Third-Party Software in Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683231291221/dae3685d-b834-49a4-af01-35a9363c98a0.png" alt="Day 80 -Integrating with Third-Party Software in Microservices Architecture" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-80-integrating-with-third-party-software-in-microservices-architecture" title="Day 80 -Integrating with Third-Party Software in Microservices Architecture"><strong>Day 80 -Integrating with Third-Party Software in Microservices Architecture</strong></a>
+<br/> Still on the #100DaysOfDevOps challenge it's day 80 of the challenge. In this blog, I'll be writing about integrating with third-party software in a microservices architecture.
+Microservices architecture is a modern approach to software development t... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-79-user-interfaces-in-a-microservices-architecture" title="Day 79 -User Interfaces in a Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683152746411/2f5f9bec-4756-4637-8ea3-9c342b2d9faf.png" alt="Day 79 -User Interfaces in a Microservices Architecture" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-79-user-interfaces-in-a-microservices-architecture" title="Day 79 -User Interfaces in a Microservices Architecture"><strong>Day 79 -User Interfaces in a Microservices Architecture</strong></a>
 <br/> Still on the #100DaysOfDevOps challenge it's day 79 of the challenge, and I'm enjoying it. In this blog, I'll be writing about user interfaces in a microservices architecture.
@@ -66,11 +71,6 @@ Microservices architecture has become increasingly popular in recent years... </
 <a href="https://rufilboy.hashnode.dev//day-78-versioning-in-a-microservices-architecture" title="Day 78 -Versioning in a Microservices Architecture"><strong>Day 78 -Versioning in a Microservices Architecture</strong></a>
 <br/> Still on the #100DaysOfDevOps challenge it's day 78 of the challenge, it seems interesting. In this blog, I'll be writing about versioning in a microservices architecture.
 Microservices architecture has become increasingly popular in recent years due... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-77-the-role-of-api-gateway-in-building-resilient-microservices-architecture" title="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682977640810/2b3366a3-cfb9-4d47-a82d-f40b100e35c2.png" alt="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-77-the-role-of-api-gateway-in-building-resilient-microservices-architecture" title="Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture"><strong>Day 77 -The Role of API Gateway in Building Resilient Microservices Architecture</strong></a>
-<br/> Today Monday, May 1st, 2023, 77th day of my #100DaysOfDevOps challenge, in this blog(documenting my journey) I'll be writing about API gateway in a microservices architecture.
-As we all know, microservices architecture has emerged as a popular approa... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
