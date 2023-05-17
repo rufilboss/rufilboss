@@ -51,6 +51,7 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 
 ### Profile Visits :see_no_evil:
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=rufilboy.visitor-badge)
+![Visitor Count](https://profile-counter.glitch.me/{rufilboy}/count.svg)
 
 -----------------------------------------------------
 
