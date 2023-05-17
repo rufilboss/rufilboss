@@ -57,21 +57,19 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-92-testing-in-the-world-of-microservices" title="Day 92 -Testing in the World of Microservices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684277397861/d132923d-af3d-4822-9c5d-0e7c2cb6bd52.png" alt="Day 92 -Testing in the World of Microservices" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-92-testing-in-the-world-of-microservices" title="Day 92 -Testing in the World of Microservices"><strong>Day 92 -Testing in the World of Microservices</strong></a>
+<br/> In the era of building scalable and resilient software systems, microservices architecture has gained immense popularity. Microservices offer numerous advantages, including improved scalability, flexibility, and easier deployment.
+However, with the i... </p> <br/> <br/>
+<p align="left">
+<a href="https://rufilboy.hashnode.dev//day-91-the-reasons-to-split-the-monolith" title="Day 91 -The Reasons to Split the Monolith"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684255531436/d0f5a7b5-1872-4774-b9f8-8711c7a7c256.png" alt="Day 91 -The Reasons to Split the Monolith" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-91-the-reasons-to-split-the-monolith" title="Day 91 -The Reasons to Split the Monolith"><strong>Day 91 -The Reasons to Split the Monolith</strong></a>
+<br/> Still uncertain about whether dividing your monolith architecture is the optimal decision for your organization? Join me on this blog where I present compelling reasons to split your monolith and transition to microservices today! Stay tuned for valu... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-90-best-practices-for-microservices-deployment-and-maintenance" title="Day 90 -Best Practices for Microservices Deployment and Maintenance"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684089125136/19f8fbe2-a706-4d7e-a1d4-3b633b102e25.png" alt="Day 90 -Best Practices for Microservices Deployment and Maintenance" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-90-best-practices-for-microservices-deployment-and-maintenance" title="Day 90 -Best Practices for Microservices Deployment and Maintenance"><strong>Day 90 -Best Practices for Microservices Deployment and Maintenance</strong></a>
 <br/> Still on the #100DaysOfDevOps challenge, it's day 90, and in this blog, I'll be delving into one of the most critical aspects of microservices architecture: breaking the monolith.
 As applications become increasingly complex, monolithic architectures ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-89-the-role-of-api-gateways-in-splitting-the-monolith-into-microservices" title="Day 89 -The Role of API Gateways in Splitting the Monolith into Microservices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684011687890/88570d71-3eff-4a14-872e-847428e0f6bc.png" alt="Day 89 -The Role of API Gateways in Splitting the Monolith into Microservices" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-89-the-role-of-api-gateways-in-splitting-the-monolith-into-microservices" title="Day 89 -The Role of API Gateways in Splitting the Monolith into Microservices"><strong>Day 89 -The Role of API Gateways in Splitting the Monolith into Microservices</strong></a>
-<br/> As software systems grow in complexity, it can become increasingly difficult to manage and maintain them as a single, monolithic application. One approach to solving this problem is to break the monolith into smaller, more manageable microservices. A... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-88-strategies-for-splitting-monolith-into-microservices" title="Day 88 -Strategies for Splitting Monolith into Microservices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683906364215/f06ae683-1b3d-481d-a0a6-e2cc17c1c341.png" alt="Day 88 -Strategies for Splitting Monolith into Microservices" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-88-strategies-for-splitting-monolith-into-microservices" title="Day 88 -Strategies for Splitting Monolith into Microservices"><strong>Day 88 -Strategies for Splitting Monolith into Microservices</strong></a>
-<br/> Now that we understand what monolith and microservices architecture are, let's look at some strategies for splitting the monolith into microservices.
-Strategies for Splitting the Monolith into Microservices: Pros and Cons
-Domain-Driven Design (DDD)
-D... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
