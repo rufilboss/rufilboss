@@ -58,6 +58,11 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-95-securing-microservices-best-practices-for-protecting-your-distributed-system" title="Day 95 -Securing Microservices: Best Practices for Protecting Your Distributed System"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684529595744/4546e9f2-c7f6-421a-9932-a85e1c6b7ca0.png" alt="Day 95 -Securing Microservices: Best Practices for Protecting Your Distributed System" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-95-securing-microservices-best-practices-for-protecting-your-distributed-system" title="Day 95 -Securing Microservices: Best Practices for Protecting Your Distributed System"><strong>Day 95 -Securing Microservices: Best Practices for Protecting Your Distributed System</strong></a>
+<br/> It's day 95 of my #100DaysOfDevOps challenge, learned about securing microservices...
+As we all that microservices architecture has revolutionized the way we develop and deploy software, offering increased agility and scalability. However, with the d... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-94-scaling-microservices-strategies-for-handling-increased-workloads" title="Day 94 -Scaling Microservices: Strategies for Handling Increased Workloads"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684444209467/fa770dd4-13bb-4188-b33a-a079f71ad84c.png" alt="Day 94 -Scaling Microservices: Strategies for Handling Increased Workloads" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-94-scaling-microservices-strategies-for-handling-increased-workloads" title="Day 94 -Scaling Microservices: Strategies for Handling Increased Workloads"><strong>Day 94 -Scaling Microservices: Strategies for Handling Increased Workloads</strong></a>
 <br/> Microservices architecture has gained significant popularity in recent years due to its ability to enhance scalability, flexibility, and agility in software development. However, as the demand for applications and services grows, microservices must b... </p> <br/> <br/>
@@ -65,11 +70,6 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 <a href="https://rufilboy.hashnode.dev//day-93-monitoring-microservices-building-blocks-for-a-robust-ecosystem" title="Day 93 -Monitoring Microservices: Building Blocks for a Robust Ecosystem"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684348221866/92311edf-fe2d-4924-8b45-3be2eb049ca6.png" alt="Day 93 -Monitoring Microservices: Building Blocks for a Robust Ecosystem" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-93-monitoring-microservices-building-blocks-for-a-robust-ecosystem" title="Day 93 -Monitoring Microservices: Building Blocks for a Robust Ecosystem"><strong>Day 93 -Monitoring Microservices: Building Blocks for a Robust Ecosystem</strong></a>
 <br/> In today's rapidly evolving technological landscape, organizations are increasingly adopting microservice architectures to enhance scalability, agility, and maintainability. These modular and independent services, when combined, form a cohesive syste... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-92-testing-in-the-world-of-microservices" title="Day 92 -Testing in the World of Microservices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684277397861/d132923d-af3d-4822-9c5d-0e7c2cb6bd52.png" alt="Day 92 -Testing in the World of Microservices" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-92-testing-in-the-world-of-microservices" title="Day 92 -Testing in the World of Microservices"><strong>Day 92 -Testing in the World of Microservices</strong></a>
-<br/> In the era of building scalable and resilient software systems, microservices architecture has gained immense popularity. Microservices offer numerous advantages, including improved scalability, flexibility, and easier deployment.
-However, with the i... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
