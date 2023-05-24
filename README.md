@@ -58,6 +58,10 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//day-99-microservices-and-devops" title="Day 99 -Microservices and DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684878425701/795aaa7e-d107-41bb-8093-dd40f2383e22.png" alt="Day 99 -Microservices and DevOps" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//day-99-microservices-and-devops" title="Day 99 -Microservices and DevOps"><strong>Day 99 -Microservices and DevOps</strong></a>
+<br/> I'm ecstatic! Only a day remains until I conquer the #100DaysOfDevOps challenge. Today, I proudly celebrate day 99, and throughout this incredible journey, I've continuously expanded my understanding and disseminated valuable insights via reading boo... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-98-microservices-communication-patterns" title="Day 98 -Microservices Communication Patterns"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684778741853/0b6cbb18-1b91-4399-8a1c-69d53968ab9a.png" alt="Day 98 -Microservices Communication Patterns" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-98-microservices-communication-patterns" title="Day 98 -Microservices Communication Patterns"><strong>Day 98 -Microservices Communication Patterns</strong></a>
 <br/> Another critical aspect of microservices architecture is inter-service communication. In this blog, I'll explore various communication patterns available for microservices and discuss how to choose the right approach for effective inter-service commu... </p> <br/> <br/>
@@ -65,10 +69,6 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 <a href="https://rufilboy.hashnode.dev//day-97-handling-distributed-data-in-microservice-architecture" title="Day 97 -Handling Distributed Data in Microservice Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684706949976/7f351dd2-3d01-4b8a-bf7e-8165b7a823ad.png" alt="Day 97 -Handling Distributed Data in Microservice Architecture" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-97-handling-distributed-data-in-microservice-architecture" title="Day 97 -Handling Distributed Data in Microservice Architecture"><strong>Day 97 -Handling Distributed Data in Microservice Architecture</strong></a>
 <br/> I'm thrilled! Just three days left until I complete the #100DaysOfDevOps challenge. Today marks day 97, and throughout this journey, I've been learning and sharing my knowledge through blog posts on microservices architecture. Excitingly, the blog I ... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-96-containerization-and-microservices-leveraging-docker-and-kubernetes-for-deployment" title="Day 96 -Containerization and Microservices: Leveraging Docker and Kubernetes for Deployment"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684619854579/b4013da4-7a0f-4c56-8db0-90cfb2728b25.png" alt="Day 96 -Containerization and Microservices: Leveraging Docker and Kubernetes for Deployment" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-96-containerization-and-microservices-leveraging-docker-and-kubernetes-for-deployment" title="Day 96 -Containerization and Microservices: Leveraging Docker and Kubernetes for Deployment"><strong>Day 96 -Containerization and Microservices: Leveraging Docker and Kubernetes for Deployment</strong></a>
-<br/> In today's fast-paced software development world, containerization and microservices have emerged as revolutionary technologies that enable seamless deployment and scaling of applications. Docker and Kubernetes, two popular open-source platforms, hav... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
