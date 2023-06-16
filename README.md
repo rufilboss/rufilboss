@@ -58,6 +58,12 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//how-to-troubleshoot-https-443-on-the-nginx-web-server" title="How to Troubleshoot HTTPS (443) on the Nginx Web Server"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686903782738/4ffe9545-6f43-4ac1-8adb-b9034f801fd3.png" alt="How to Troubleshoot HTTPS (443) on the Nginx Web Server" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//how-to-troubleshoot-https-443-on-the-nginx-web-server" title="How to Troubleshoot HTTPS (443) on the Nginx Web Server"><strong>How to Troubleshoot HTTPS (443) on the Nginx Web Server</strong></a>
+<br/> If you have verified that Nginx is correctly configured to listen on port 443 and have allowed incoming connections to port 443 through the firewall, but are still unable to connect to the server on port 443, there may be other issues to consider.
+
+C... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//day-100-measuring-success-for-monolith-splitting-and-microservice-architecture" title="Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684235414583/6521a028-10a9-43ff-bbf4-217ace38401d.png" alt="Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-100-measuring-success-for-monolith-splitting-and-microservice-architecture" title="Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture"><strong>Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture</strong></a>
 <br/> I'm thrilled to tell you guys that today marks the final day of the incredible #100DaysOfDevOps challenge! It's a momentous occasion as I've reached the grand milestone of day 100. In this captivating blog post, I'll joyfully delve into the invaluabl... </p> <br/> <br/>
@@ -65,10 +71,6 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 <a href="https://rufilboy.hashnode.dev//day-99-microservices-and-devops" title="Day 99 -Microservices and DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684878425701/795aaa7e-d107-41bb-8093-dd40f2383e22.png" alt="Day 99 -Microservices and DevOps" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//day-99-microservices-and-devops" title="Day 99 -Microservices and DevOps"><strong>Day 99 -Microservices and DevOps</strong></a>
 <br/> I'm ecstatic! Only a day remains until I conquer the #100DaysOfDevOps challenge. Today, I proudly celebrate day 99, and throughout this incredible journey, I've continuously expanded my understanding and disseminated valuable insights via reading boo... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-98-microservices-communication-patterns" title="Day 98 -Microservices Communication Patterns"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684778741853/0b6cbb18-1b91-4399-8a1c-69d53968ab9a.png" alt="Day 98 -Microservices Communication Patterns" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-98-microservices-communication-patterns" title="Day 98 -Microservices Communication Patterns"><strong>Day 98 -Microservices Communication Patterns</strong></a>
-<br/> Another critical aspect of microservices architecture is inter-service communication. In this blog, I'll explore various communication patterns available for microservices and discuss how to choose the right approach for effective inter-service commu... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
