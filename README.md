@@ -58,6 +58,10 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 ## Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://rufilboy.hashnode.dev//how-ip-addresses-are-assigned-in-load-balancing" title="How IP Addresses are Assigned in Load Balancing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692224678814/67028b73-b1c3-44c5-bef4-fa6a69d73328.png" alt="How IP Addresses are Assigned in Load Balancing" width="250px" align="left" /></a>
+<a href="https://rufilboy.hashnode.dev//how-ip-addresses-are-assigned-in-load-balancing" title="How IP Addresses are Assigned in Load Balancing"><strong>How IP Addresses are Assigned in Load Balancing</strong></a>
+<br/> In load balancing, IP addresses are assigned to a group of servers or instances to distribute the workload across them. There are different methods for assigning IP addresses to servers in load balancing, depending on the type of load balancing used.... </p> <br/> <br/>
+<p align="left">
 <a href="https://rufilboy.hashnode.dev//containers-a-journey-into-software-portability" title="Containers: A Journey into Software Portability"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692018720893/1c883466-e668-4580-aa3a-682984893510.png" alt="Containers: A Journey into Software Portability" width="250px" align="left" /></a>
 <a href="https://rufilboy.hashnode.dev//containers-a-journey-into-software-portability" title="Containers: A Journey into Software Portability"><strong>Containers: A Journey into Software Portability</strong></a>
 <br/> In the fast-paced world of modern software development, containerization has emerged as a revolutionary technology, transforming how applications are developed, deployed, and managed. With its ability to package software and its dependencies into a s... </p> <br/> <br/>
@@ -67,10 +71,6 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 <br/> If you have verified that Nginx is correctly configured to listen on port 443 and have allowed incoming connections to port 443 through the firewall, but are still unable to connect to the server on port 443, there may be other issues to consider.
 
 C... </p> <br/> <br/>
-<p align="left">
-<a href="https://rufilboy.hashnode.dev//day-100-measuring-success-for-monolith-splitting-and-microservice-architecture" title="Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684235414583/6521a028-10a9-43ff-bbf4-217ace38401d.png" alt="Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture" width="250px" align="left" /></a>
-<a href="https://rufilboy.hashnode.dev//day-100-measuring-success-for-monolith-splitting-and-microservice-architecture" title="Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture"><strong>Day 100 -Measuring Success for Monolith Splitting and Microservice Architecture</strong></a>
-<br/> I'm thrilled to tell you guys that today marks the final day of the incredible #100DaysOfDevOps challenge! It's a momentous occasion as I've reached the grand milestone of day 100. In this captivating blog post, I'll joyfully delve into the invaluabl... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 -----------------------------------------------------
