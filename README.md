@@ -7,10 +7,10 @@ Cloud & DevOps Engineer
 <!-- ![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboy/)](https://www.linkedin.com/in/rufilboy/)
-[![Twitter Badge](https://img.shields.io/badge/-@rufilboy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rufilboy)](https://twitter.com/rufilboy)
-[![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboy/)](https://instagram.com/rufilboy)
-[![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/ilyas.rufai.5/)](https://facebook.com/rufilboy)
+[![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboss/)](https://www.linkedin.com/in/rufilboss/)
+[![Twitter Badge](https://img.shields.io/badge/-@rufilboy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rufilboss)](https://twitter.com/rufilboss)
+[![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboss/)](https://instagram.com/rufilboss)
+[![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/rufilboss/)](https://facebook.com/rufilboss)
 
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
 - 🌱 I’m currently learning microservices architecture with #100DaysOfDevOps challenge
@@ -22,9 +22,9 @@ Cloud & DevOps Engineer
 - ⚡ Fun fact: I love cats:relieved:.
 
 
-<a href="https://www.twitter.com/rufilboy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.github.com/rufilboy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/rufilboss" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboss?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/rufilboss" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rufilboss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 
 -----------------------------
@@ -33,14 +33,14 @@ src="https://img.shields.io/github/followers/rufilboy?logo=github&style=for-the-
 <!-- -[![ilyas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rufilboy)](https://github.com/rufilboy/github-readme-stats) -  -->
 
 <!---My Gitub Status--->
-<a><img height=200 width=800 align="centre" src="https://github-readme-stats.vercel.app/api?username=rufilboy&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboy's Github status" />
+<a><img height=200 width=800 align="centre" src="https://github-readme-stats.vercel.app/api?username=rufilboss&theme=synthwave&show_icons=true&count_private=true" alt="Rufilboss' Github status" />
 
 <!---TopLanguages--->
 <!-- <img height=170 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufilboy&langs_count=7&layout=compact&theme=dark" alt="Rufilboy's Language stats" /> -->
 
 
 <!---My Github Streak--->
-<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboy&theme=highcontrast" alt="Rufilboy's Github streak" />
+<img height=200 width=800 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufilboss&theme=highcontrast" alt="Rufilboss' Github streak" />
 </a>
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rufilboy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
