@@ -3,21 +3,21 @@ Hi 👋 My name is Ilyas Rufai
 
 Cloud & DevOps Engineer
 -----------------------------
-[![@rufilboy's Holopin board](https://holopin.io/api/user/board?user=rufilboy)](https://holopin.io/@rufilboy)
+[![@rufilboss' Holopin board](https://holopin.io/api/user/board?user=rufilboy)](https://holopin.io/@rufilboy)
 <!-- ![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboss/)](https://www.linkedin.com/in/rufilboss/)
-[![Twitter Badge](https://img.shields.io/badge/-@rufilboy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rufilboss)](https://twitter.com/rufilboss)
-[![Instagram Badge](https://img.shields.io/badge/-@rufilboy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboss/)](https://instagram.com/rufilboss)
+[![Twitter Badge](https://img.shields.io/badge/-@rufilboss-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rufilboss)](https://twitter.com/rufilboss)
+[![Instagram Badge](https://img.shields.io/badge/-@rufilboss-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rufilboss/)](https://instagram.com/rufilboss)
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/rufilboss/)](https://facebook.com/rufilboss)
 
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
-- 🌱 I’m currently learning microservices architecture with #100DaysOfDevOps challenge
+- 🌱 I’m currently learning GOLANG
 - 👯 I’m looking to collaborate on some amazing projects.
-- :goal_net: 2023 Goals: Contributing to Open Source projects
+- :goal_net: 2024 Goals: Contributing to Open Source projects
 - 💬 Ask me about DevOps related.
-- 📫 How to reach me: rufilboy@gmail.com
+- 📫 How to reach me: rufilboss@gmail.com
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love cats:relieved:.
 
