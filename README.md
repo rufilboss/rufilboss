@@ -3,7 +3,7 @@ Hi 👋 My name is Ilyas Rufai
 
 Cloud & DevOps Engineer
 -----------------------------
-[![@rufilboy's Holopin board](https://holopin.io/api/user/board?user=rufilboy)](https://holopin.io/@rufilboy)
+[![@rufilboss's Holopin board](https://holopin.io/api/user/board?user=rufilboss)](https://holopin.io/@rufilboy)
 <!-- ![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
 
 ### Connect with me:
@@ -13,11 +13,11 @@ Cloud & DevOps Engineer
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/rufilboss/)](https://facebook.com/rufilboss)
 
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
-- 🌱 I’m currently learning microservices architecture with #100DaysOfDevOps challenge
+- 🌱 I’m currently learning GOLANG
 - 👯 I’m looking to collaborate on some amazing projects.
-- :goal_net: 2023 Goals: Contributing to Open Source projects
+- :goal_net: 2024 Goals: Contributing to Open Source projects
 - 💬 Ask me about DevOps related.
-- 📫 How to reach me: rufilboy@gmail.com
+- 📫 How to reach me: rufilboss@gmail.com
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I love cats:relieved:.
 
