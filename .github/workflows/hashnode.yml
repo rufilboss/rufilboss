@@ -16,9 +16,9 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          USERNAME: "Rufilboy" 
+          USERNAME: "rufilboss" 
           COUNT: 3
           STYLE: "blog-left"
-          BLOG_URL: "https://rufilboy.hashnode.dev/"
+          BLOG_URL: "https://rufilboss.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
