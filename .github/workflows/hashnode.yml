@@ -19,6 +19,6 @@ jobs:
           USERNAME: "rufilboss" 
           COUNT: 3
           STYLE: "blog-left"
-          BLOG_URL: "https://rufilboss.hashnode.dev/"
+          BLOG_URL: "https://blog.rufilboss.me/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
