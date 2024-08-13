@@ -1,24 +1,49 @@
-name: "📚 Latest Blog"
+name: 'Hashnode Blogs'
 
 on:
   workflow_dispatch:
   schedule:
-    - cron:  "0 12 * * *" # Runs everyday on 12pm, on the hour.
+    - cron: '0 0 * * *' # Runs every hour, on the hour.
 
 jobs:
   update_blogs:
-    name: "Update With Latest Blogs"
+    name: 'Hashnode Latest Blogs'
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
+      - name: 'Fetch Repository Contents'
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: 'Hashnode Blog Action'
+        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          USERNAME: "rufilboss" 
-          COUNT: 3
-          STYLE: "blog-left"
-          BLOG_URL: "https://blog.rufilboss.me/"
+          HASHNODE_PUBLICATION_NAME: 'blog.rufilboss.me'
+          FORMAT: 'table'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+# name: "📚 Latest Blog"
+
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron:  "0 12 * * *" # Runs everyday on 12pm, on the hour.
+
+# jobs:
+#   update_blogs:
+#     name: "Update With Latest Blogs"
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: "📥  Fetching Repository Contents"
+#         uses: actions/checkout@main
+
+#       - name: "📚  Hashnode Updater"
+#         uses: "varunsridharan/action-hashnode-blog@main"
+#         with:
+#           USERNAME: "rufilboss" 
+#           COUNT: 3
+#           STYLE: "blog-left"
+#           BLOG_URL: "https://blog.rufilboss.me/"
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
