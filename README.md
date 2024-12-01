@@ -82,6 +82,9 @@ Serverless architecture is a paradigm where you build and run applications witho
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- Wakatime --> 
+<figure><embed src="https://wakatime.com/share/@d22d2989-fe51-47ed-800f-b156758341fe/df7e42b7-fabc-48d1-a36c-9208568e0a0f.svg"></embed></figure>
+
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
