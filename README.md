@@ -15,11 +15,11 @@ Cloud & DevOps Engineer
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
 - 🌱 I’m currently learning data structures and algorithms(DSA) with Python
 - 👯 I’m looking to collaborate on some amazing projects.
-- :goal_net: 2024 Goals: Contributing to Open Source projects
+- 🥅 2024 Goals: Contributing to Open Source projects
 - 💬 Ask me about Cloud/DevOps/System-Design/DSA related.
 - 📫 How to reach me: rufilboss@gmail.com
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I love cats :relieved: .
+- ⚡ Fun fact: I love cats😻
 
 
 <a href="https://www.twitter.com/rufilboss" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rufilboss?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
