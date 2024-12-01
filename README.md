@@ -13,7 +13,7 @@ Cloud & DevOps Engineer
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/rufilboss/)](https://facebook.com/rufilboss)
 
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
-- 🌱 I’m currently learning GOLANG
+- 🌱 I’m currently learning data structures and algorithms(DSA) with Python
 - 👯 I’m looking to collaborate on some amazing projects.
 - :goal_net: 2024 Goals: Contributing to Open Source projects
 - 💬 Ask me about DevOps related.
