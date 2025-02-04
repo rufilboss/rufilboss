@@ -13,13 +13,13 @@ jobs:
       - name: Create a monitor issue
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
-          assignees: "rufilboy"
+          assignees: "rufilboss"
           labels: "daily sync, progress, learnings, 10X-activated"
           title: "Daily Monitoring"
           body: |
             ### Agenda
-            - [ ] Learn with consistence!
-            - [ ] Write down what you've learnt TODAY!
+            - [ ] Learn with consistency!
+            - [ ] Write down what you've learned TODAY!
             - [ ] Did you learn any new things today?
             - [ ] Did you meet any techie learning Node JS as you are?
                     
