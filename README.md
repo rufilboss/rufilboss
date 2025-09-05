@@ -1,7 +1,7 @@
 Hi 👋 My name is Ilyas Rufai
 ===============================
 
-Cloud & DevOps Engineer
+Software Engineer
 -----------------------------
 [![@rufilboss' Holopin board](https://holopin.io/api/user/board?user=rufilboy)](https://holopin.io/@rufilboy)
 <!-- ![rufilboy](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) -->
@@ -13,9 +13,9 @@ Cloud & DevOps Engineer
 [![Facebook Badge](https://img.shields.io/badge/-Ilyas_Rufai-blue?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/rufilboss/)](https://facebook.com/rufilboss)
 
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
-- 🌱 I’m currently learning data structures and algorithms(DSA) with Python
+- 🌱 I’m currently learning how to build scalable applications.
 - 👯 I’m looking to collaborate on some amazing projects.
-- 🥅 2024 Goals: Contributing to Open Source projects
+- 🥅 2025 Goals: Contributing to Open Source projects
 - 💬 Ask me about Cloud/DevOps/System-Design/DSA related.
 - 📫 How to reach me: rufilboss@gmail.com
 - 😄 Pronouns: He/Him/His.
