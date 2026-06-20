@@ -15,7 +15,7 @@ Cloud DevOps Engineer
 - 🔭 Building🫰🏾 [LogIQ](https://github.com/FreeOps-Tools/LogIQ).☺️
 - 🌱 I’m currently learning how to build scalable applications.
 - 👯 I’m looking to collaborate on some amazing projects.
-- 🥅 2025 Goals: Contributing to Open Source projects
+- 🥅 2026 Goals: Contributing to Open Source projects
 - 💬 Ask me about Cloud/DevOps/System-Design/DSA related.
 - 📫 How to reach me: rufilboss@gmail.com
 - 😄 Pronouns: He/Him/His.
