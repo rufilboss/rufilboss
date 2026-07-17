@@ -1,9 +1,9 @@
 # Ilyas Rufai
 
-Cloud DevOps Engineer focused on reliability, automation, and clean systems design.
+Software Engineer focused on reliability, automation, and clean systems design.
 I work primarily in Python and Rust, with experience across AWS, Linux, CI/CD, and production operations.
 
-My long-term goal is to grow into a Software Engineer role at Apple, building products and systems that are simple, durable, and useful.
+My long-term goal is to grow into a Software Engineer role at [Apple](https://github.com/apple), building products and systems that are simple, durable, and useful.
 
 ## Focus
 
