@@ -1,7 +1,7 @@
 # Ilyas Rufai
 
 Software Engineer focused on reliability, automation, and clean systems design.
-I work primarily in Python and Rust, with experience across AWS, Linux, CI/CD, and production operations.
+I work primarily in the SRE space using Python, Go, and Rust, with experience across AWS, Linux, CI/CD, and production operations.
 
 My goal is to grow into a Software Engineer role at [Apple](https://github.com/apple), building products and systems that are simple, durable, and useful.
 
@@ -21,6 +21,7 @@ My goal is to grow into a Software Engineer role at [Apple](https://github.com/a
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
